@@ -1,11 +1,17 @@
-# Noah-Jones-Portfolio
+# Noah Jones – Applied Math & Engineering Portfolio
 
-This repo is where I’m putting all of my applied math, physics modeling, computational, and data science projects.
+Applied Mathematics student focused on signal processing, simulation, and data-driven systems.
 
-I’m using this to organize the work I’ll be doing between semesters and throughout next year. Stuff here will include:
-- computational physics simulations
-- math modeling projects
-- data analysis and visualization
-- Python and Java practice
+## Featured Projects
 
-More will get added as I go.
+### Doppler Radar Signal Processing System (Raspberry Pi)
+End-to-end radar signal acquisition and FFT-based motion detection using analog signal conditioning and frequency analysis.  
+→ `doppler-radar-system/`
+
+### Raspberry Pi System Monitor
+Real-time telemetry dashboard built with FastAPI for monitoring system metrics.  
+→ https://github.com/Noahlies/tart-pi-system-monitor
+
+### Game Data Tracker (CLI)
+Lightweight Python tool for tracking and analyzing game data using JSON storage.  
+→ https://github.com/Noahlies/python-game-tracker
