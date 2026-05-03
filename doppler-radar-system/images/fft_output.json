@@ -1,0 +1,44 @@
+{
+    "timestamp": "2026-05-02T14:35:35",
+    "input_source": "mic",
+    "input_file": "data/live_capture.wav",
+    "sample_rate_hz": 48000,
+    "search_range_hz": {
+        "min": 20.0,
+        "max": 3000.0
+    },
+    "detected_peak": {
+        "frequency_hz": 59.5,
+        "magnitude": 1138.65
+    },
+    "top_detected_frequencies": [
+        {
+            "rank": 1,
+            "frequency_hz": 59.5,
+            "magnitude": 1138.65
+        },
+        {
+            "rank": 2,
+            "frequency_hz": 179.0,
+            "magnitude": 365.71
+        },
+        {
+            "rank": 3,
+            "frequency_hz": 299.5,
+            "magnitude": 243.83
+        },
+        {
+            "rank": 4,
+            "frequency_hz": 539.5,
+            "magnitude": 237.66
+        },
+        {
+            "rank": 5,
+            "frequency_hz": 30.5,
+            "magnitude": 220.56
+        }
+    ],
+    "velocity_estimate_mps": 0.848,
+    "confidence_score": 3.11,
+    "signal_status": "VALID"
+}
